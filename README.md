@@ -26,4 +26,4 @@
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ From [MWB6763vmj7x](https://github.com/MWB6763vmj7x)
